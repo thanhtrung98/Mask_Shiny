@@ -58,4 +58,3 @@ Before start, please download the mask_rcnn_coco.h5 file from the [released page
 
 This project provides 2 Ipython notebooks for guidance. The Demo-Image file shows how to process an input image. The Demo-Video file shows how to process an input video. Both files include detailed annotation and explaination. You can execute them step by step easily.
 
-For any question, please use the issue function or connect with hushiyu199510@gmail.com, thanks a lot!
